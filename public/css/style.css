@@ -1,0 +1,19 @@
+/* <!-- CONSIGNES -->
+<!-- 
+    le corps du document doit être écrit en helvetica.
+    les h1 doivent être centrés et écrits en rouge.
+    tous les h2 doivent être soulignés.
+    les h2 dans les sections doivent être verts.
+    les h2 dans les articles doivent être bleus.
+    les paragraphes suivant directement un h2 doivent être en rouge italique.
+    les paragraphes suivant un h1 doivent être en violet.
+ --> */
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ h1{
+    text-align: center;
+    color: red;
+ }
