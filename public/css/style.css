@@ -24,3 +24,12 @@
  article h2{
     color: blue;
  }
+
+ h2+p{
+    color: red;
+    font-style: italic;    
+
+}
+h1+p{
+    color: violet;
+}
