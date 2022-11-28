@@ -20,3 +20,7 @@
  section h2{
     text-decoration:underline;
  }
+
+ article h2{
+    color: blue;
+ }
